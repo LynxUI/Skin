@@ -1,0 +1,17 @@
+## Author: Lynxium
+## Title: Lynx|cff40a5f7UI|r: Skin
+## Notes: Provides minor modifications to the appearance of the standard UI.
+
+## Interface: 80300
+## Dependencies: LynxUI
+## OptionalDeps: Masque
+
+Locale\enUS.lua
+
+Main.lua
+
+Scripts\Auras.lua
+Scripts\ChatFrame.lua
+Scripts\DropDownMenu.lua
+Scripts\MainMenuBar.lua
+Scripts\Tooltip.lua
